@@ -1,2 +1,2 @@
 # CursoPython-tareas
-Tareas/actividades del curso de Python inicial 
+ En este repositorio estaré cargando todas las actividades a realizar durante el curso. 
